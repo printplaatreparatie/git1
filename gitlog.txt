@@ -1,4 +1,4 @@
-Gemaakt door Peter Wilbrink
+
 commit aaf13f45ffb982a7a716ac6da29fea42da075cac
 Author: printplaatreparatie <admin@figuratum.com>
 Date:   Wed Jul 22 17:47:51 2020 +0200
